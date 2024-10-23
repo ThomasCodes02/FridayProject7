@@ -17,6 +17,5 @@ Then, at lunch, I went to {restaurant} for their delicious {food1},
 But the waiter brought me {food2}, which I was not hungry for.
 Finally, on my way home, I was cut off by a van with a large {large_object_singular} strapped to the roof."""
 
-# Let's call the function to allow user interaction
 print (madlib_user_input())
 
