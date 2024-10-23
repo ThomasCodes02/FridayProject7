@@ -6,3 +6,13 @@ Project 1 Notes
 # Returning the madlib with the user inputs
 # Let's call the function to allow user interaction
 
+Project 2 Notes
+#
+Project 3 Notes
+#
+Project 4 Notes 
+#
+Project 5 Notes
+#
+Project 6 Notes
+#
