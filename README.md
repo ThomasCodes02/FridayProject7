@@ -18,7 +18,15 @@ Project 2 Notes
 # Call the Function
 
 Project 3 Notes
-#
+# Importing the random module to generate random numbers
+# Ask the user if they want to play the game and convert the input to lowercase
+# Check if the user said "yes"
+# Generate a random number between 1 and 10
+# Ask the user to guess a number between 1 and 10, and convert it to an integer
+# Check if the guessed number matches the random number
+# If the guess is correct, print a congratulatory message
+# If the guess is incorrect, show the correct number and prompt them to try again
+# Call the function to start the game
 Project 4 Notes 
 #
 Project 5 Notes
