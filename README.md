@@ -28,7 +28,11 @@ Project 3 Notes
 # If the guess is incorrect, show the correct number and prompt them to try again
 # Call the function to start the game
 Project 4 Notes 
-#
+# Define the trivia questions and answers
+# Loop through the dictionary and prompt the user for answers
+# Display the question
+# Check if the answer is correct and provide feedback
+# # Add a newline for spacing
 Project 5 Notes
 #
 Project 6 Notes
