@@ -34,6 +34,11 @@ Project 4 Notes
 # Check if the answer is correct and provide feedback
 # # Add a newline for spacing
 Project 5 Notes
-#
+# Define functions for each color
+# Main Program Logic
+# Display each color function with sample text
+# User input for custom text and color choice
+# Dictionary to match color choices with functions
+# Display the text in the chosen color if the color is valid
 Project 6 Notes
 #
