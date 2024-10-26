@@ -1,4 +1,6 @@
 Friday Project 7
+Notes
+# I messed up the commit comments for projects 5 and 6 and could not figure out how to edit the comments. 
 
 Project 1 Notes
 # Let's rewrite the code to allow user input for each part of the madlib.
@@ -41,4 +43,19 @@ Project 5 Notes
 # Dictionary to match color choices with functions
 # Display the text in the chosen color if the color is valid
 Project 6 Notes
-#
+# Initialize the bank account with an account number and an initial balance
+# Deposit the specified amount if it is positive
+# Withdraw the specified amount if it is positive and within the balance
+# Display the current balance
+# Create one account with a specific account number and a default balance of 0
+# Prompt the user to enter their account number once for verification
+# Indefinite loop to provide account options until the user decides to exit
+# Display available options
+# Deposit money if user selects option 1
+# Withdraw money if user selects option 2
+# Check balance if user selects option 3
+# Exit the loop if user selects option 4
+# Handle invalid option selection
+# Add space between transactions for better readability
+# Display error message if account number is incorrect
+
